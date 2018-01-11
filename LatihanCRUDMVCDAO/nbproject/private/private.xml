@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/estertambunan/latihanmvcdao/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/estertambunan/latihanmvcdao/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/estertambunan/latihanmvcdao/event/PelangganListener.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/estertambunan/latihanmvcdao/controller/PelangganController.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/estertambunan/latihanmvcdao/database/BarbershopDatabase.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/estertambunan/latihanmvcdao/model/PelangganModel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/estertambunan/latihanmvcdao/view/PelangganView.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/latihancrudmvcdao/LatihanCRUDMVCDAO.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/LatihanCRUDMVCDAO/src/edu/estertambunan/latihanmvcdao/error/PelangganException.java</file>
+        </group>
+    </open-files>
+</project-private>
